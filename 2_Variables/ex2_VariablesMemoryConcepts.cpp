@@ -74,4 +74,14 @@ int main() {
     cout << "d = " << d << endl;
     d = 9000000000000000000;      // d is now 9000000000000000000
     cout << "d = " << d << endl;
+
+
+    /*
+        In C++, 'short' datatype takes 2 bytes of memory.
+    */
+    cout << "Size of short: " << sizeof(short) << " bytes" << endl;
+    short e = 30000;
+    cout << "e = " << e << endl;
+    e = 32000;      // e is now 32000
+    cout << "e = " << e << endl;
 }
