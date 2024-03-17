@@ -103,4 +103,25 @@ int main() {
     cout << "g = " << g << endl;
     g = 5000000000;      // g is now 5000000000
     cout << "g = " << g << endl;
+
+
+    /*
+        In C++, 'unsigned long long' datatype takes 8 bytes of memory.
+    */
+    cout << "Size of unsigned long long: " << sizeof(unsigned long long) << " bytes" << endl;
+    unsigned long long h = 4000000000;
+    cout << "h = " << h << endl;
+    h = 5000000000;      // h is now 5000000000
+    cout << "h = " << h << endl;
+
+
+    /*
+        In C++, 'unsigned short' datatype takes 2 bytes of memory.
+    */
+    cout << "Size of unsigned short: " << sizeof(unsigned short) << " bytes" << endl;
+    unsigned short i = 60000;
+    cout << "i = " << i << endl;
+    i = 65000;      // i is now 65000
+    cout << "i = " << i << endl;
+    
 }
