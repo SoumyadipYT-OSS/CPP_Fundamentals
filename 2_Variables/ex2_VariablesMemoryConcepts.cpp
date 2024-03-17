@@ -123,5 +123,15 @@ int main() {
     cout << "i = " << i << endl;
     i = 65000;      // i is now 65000
     cout << "i = " << i << endl;
-    
+
+
+
+    /*
+        In C++, 'long double' datatype takes 12 bytes of memory.
+    */
+    cout << "Size of long double: " << sizeof(long double) << " bytes" << endl;
+    long double j = 3.14159265358979323846;
+    cout << "j = " << j << endl;
+    j = 2.71828182845904523536;      // j is now 2.71828182845904523536
+    cout << "j = " << j << endl;
 }
