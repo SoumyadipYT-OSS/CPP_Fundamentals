@@ -3,12 +3,11 @@
 using namespace std;
 
 int main() {
+    cout << "Variable Memory Concepts" << endl;
+    cout << "-------------------------" << endl;
     /*
         In C++, 'int' datatype takes 4 bytes of memory.
     */
-    cout << "Variable Memory Concepts" << endl;
-    cout << "-------------------------" << endl;
-
     cout << "Size of int: " << sizeof(int) << " bytes" << endl;
     int x = 99;
     cout << "x = " << x << endl;
@@ -84,4 +83,15 @@ int main() {
     cout << "e = " << e << endl;
     e = 32000;      // e is now 32000
     cout << "e = " << e << endl;
+
+
+    /*
+        In C++, 'unsigned int' datatype takes 4 bytes of memory.
+    */
+    cout << "Size of unsigned int: " << sizeof(unsigned int) << " bytes" << endl;
+    unsigned int f = 4000000000;
+    cout << "f = " << f << endl;
+    f = 5000000000;      // f is now 5000000000
+    cout << "f = " << f << endl;
+    
 }
