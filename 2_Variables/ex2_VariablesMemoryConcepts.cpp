@@ -149,4 +149,42 @@ int main() {
     const wchar_t* wideString = L"जय हिंद जय भारत वन्दे मातरम् जय श्री राम जय श्री कृष्ण जय श्री हनुमान जय माता काली माता";
     wcout << "wideString = " << wideString << endl;
 
+
+
+    /*
+        In C++, 'string' datatype is a class and it takes 24 bytes of memory.
+    */
+    cout << "Size of string: " << sizeof(string) << " bytes" << endl;
+    string str = "श्रीमत् भगवत् गीता";
+    cout << "str = " << str << endl;
+    str = "संस्कृतभाषा विश्वस्य सर्वोत्तमा प्राचीना च भाषा अस्ति।";      // str is now "संस्कृतभाषा विश्वस्य सर्वोत्तमा प्राचीना च भाषा अस्ति।"
+    cout << "str = " << str << endl;
+
+
+
+    /*
+        In C++, 'wstring' datatype is a class and it takes 24 bytes of memory.
+    */
+    cout << "Size of wstring: " << sizeof(wstring) << " bytes" << endl;
+    wstring wideStr = L"शिवपुराणम्";
+    wcout << "wideStr = " << wideStr << endl;
+    wideStr = L"शिवपुराणम् एकम् अत्यन्तम् महत्त्वम् अस्ति।";      // wideStr is now "शिवपुराणम् एकम् अत्यन्तम् महत्त्वम् अस्ति।"
+    wcout << "wideStr = " << wideStr << endl;
+
+
+
+
+    /*
+        In C++, 'void' datatype takes 1 byte of memory.
+    */
+    cout << "Size of void: " << sizeof(void) << " bytes" << endl;
+    void* ptr = nullptr;
+    cout << "ptr = " << ptr << endl;
+    ptr = &x;      // ptr is now the address of x
+    cout << "ptr = " << ptr << endl;
+
+
+
+    return 0;
+
 }
