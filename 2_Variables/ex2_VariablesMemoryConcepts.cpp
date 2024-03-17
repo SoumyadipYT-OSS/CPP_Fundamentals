@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cwchar>   // for wide character I/O
 
 using namespace std;
 
@@ -134,4 +135,18 @@ int main() {
     cout << "j = " << j << endl;
     j = 2.71828182845904523536;      // j is now 2.71828182845904523536
     cout << "j = " << j << endl;
+
+
+
+    /*
+        In C++, 'wchar_t' datatype takes 2 bytes of memory.
+    */
+    cout << "Size of wchar_t: " << sizeof(wchar_t) << " bytes" << endl;
+    wchar_t wideChar = L'₹';
+    wcout << "wideChar = " << wideChar << endl;
+    wideChar = L'ॐ';      // wideChar is now ॐ
+
+    const wchar_t* wideString = L"जय हिंद जय भारत वन्दे मातरम् जय श्री राम जय श्री कृष्ण जय श्री हनुमान जय माता काली माता";
+    wcout << "wideString = " << wideString << endl;
+
 }
