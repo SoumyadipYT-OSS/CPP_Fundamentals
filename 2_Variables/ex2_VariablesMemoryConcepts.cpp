@@ -59,4 +59,19 @@ int main() {
     /*
         In C++, 'long' datatype takes 4 bytes of memory.
     */
+    cout << "Size of long: " << sizeof(long) << " bytes" << endl;
+    long c = 2000000;
+    cout << "c = " << c << endl;
+    c = 9000000000;      // c is now 9000000000
+    cout << "c = " << c << endl;
+
+
+    /*
+        In C++, 'long long' datatype takes 8 bytes of memory.
+    */
+    cout << "Size of long long: " << sizeof(long long) << " bytes" << endl;
+    long long d = 8500000000;
+    cout << "d = " << d << endl;
+    d = 9000000000000000000;      // d is now 9000000000000000000
+    cout << "d = " << d << endl;
 }
