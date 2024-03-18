@@ -90,9 +90,9 @@ int main() {
         In C++, 'unsigned int' datatype takes 4 bytes of memory.
     */
     cout << "Size of unsigned int: " << sizeof(unsigned int) << " bytes" << endl;
-    unsigned int f = 4000000000;
+    unsigned int f = 400000;
     cout << "f = " << f << endl;
-    f = 5000000000;      // f is now 5000000000
+    f = (unsigned int) 70503200;
     cout << "f = " << f << endl;
 
 
@@ -102,7 +102,7 @@ int main() {
     cout << "Size of unsigned long: " << sizeof(unsigned long) << " bytes" << endl;
     unsigned long g = 4000000000;
     cout << "g = " << g << endl;
-    g = 5000000000;      // g is now 5000000000
+    g = 5000000000L;      // g is now 5000000000
     cout << "g = " << g << endl;
 
 
