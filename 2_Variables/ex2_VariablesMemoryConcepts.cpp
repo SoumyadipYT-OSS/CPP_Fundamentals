@@ -62,7 +62,7 @@ int main() {
     cout << "Size of long: " << sizeof(long) << " bytes" << endl;
     long c = 2000000;
     cout << "c = " << c << endl;
-    c = 9000000000;      // c is now 9000000000
+    c = 90000L;      // c is now 90000L
     cout << "c = " << c << endl;
 
 
