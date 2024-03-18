@@ -177,12 +177,10 @@ int main() {
     /*
         In C++, 'void' datatype takes 1 byte of memory.
     */
-    cout << "Size of void: " << sizeof(void) << " bytes" << endl;
     void* ptr = nullptr;
     cout << "ptr = " << ptr << endl;
     ptr = &x;      // ptr is now the address of x
     cout << "ptr = " << ptr << endl;
-
 
 
     return 0;
