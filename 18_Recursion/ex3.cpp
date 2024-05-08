@@ -12,10 +12,6 @@ public:
     }
 
     double fib(int n) {
-        if(n < 0) {
-            cout << "Invalid input. Please enter a non-negative number." << endl;
-            return -1;
-        }
         if(memo[n] != -1) {
             return memo[n];
         }
@@ -38,7 +34,7 @@ int main() {
     cin >> n;
     if(n < 0) {
         cout << "Invalid input. Please enter a non-negative number." << endl;
-        return 1;
+        return -1;
     }
     Fibonacci fib(n);
     fib.printSeries(n);
