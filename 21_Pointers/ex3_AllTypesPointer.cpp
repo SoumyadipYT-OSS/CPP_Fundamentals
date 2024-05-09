@@ -28,4 +28,29 @@ class Solution {
 
         return 0;
     }
+
+
+    int DoublePointer() {
+        double c = 123.456;
+        double *r;
+        r = &c;
+
+        cout << "Size of double: " << sizeof(double) << " bytes" << endl;
+        cout << "Size of double pointer 'r': " << sizeof(double*) << " bytes" << endl;
+        cout << "Address = " << r << ", value = " << *r << endl;
+
+        return 0;
+    }
+
+
+    int VoidPointer() {
+        void *vp;
+        int a = 1025;
+        vp = &a;
+
+        cout << "Size of void pointer 'vp': " << sizeof(void*) << " bytes" << endl;
+        cout << "Address = " << vp << endl;
+
+        return 0;
+    }
 };
