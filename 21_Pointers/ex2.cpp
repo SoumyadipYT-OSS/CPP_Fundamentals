@@ -14,5 +14,7 @@ int main() {
     cout << "Size of char: " << sizeof(char) << " bytes" << endl;
     cout << "Address = " << p0 << ", value = " << *p0 << endl;
 
+    cout << "Address+1 = " << p0+1 << ", value = " << *(p0+1) << endl;
+
     return 0;
 }
