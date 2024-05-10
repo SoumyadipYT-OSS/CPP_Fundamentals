@@ -12,12 +12,15 @@ int main() {
     passByValue(Prafullachandra);
     passByReference(&Satyendranath);
 
+
     cout << "Prafullachandra is now " << Prafullachandra << endl;
     cout << "Satyendranath is now " << Satyendranath << endl;
+
 }
 
 void passByValue(int x) {
     x = 99;
+    cout << "Value of x is " << x << endl;
 }
 
 void passByReference(int *x) {
