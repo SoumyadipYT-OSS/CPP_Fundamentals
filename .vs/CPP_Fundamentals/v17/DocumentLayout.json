@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub repo connections\\CPP_Fundamentals\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\05_Functions\\ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:05_Functions\\ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\02_Variables\\ex2_VariablesMemoryConcepts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02_Variables\\ex2_VariablesMemoryConcepts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ex3.cpp",
-              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\05_Functions\\ex3.cpp",
-              "RelativeDocumentMoniker": "05_Functions\\ex3.cpp",
-              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\05_Functions\\ex3.cpp",
-              "RelativeToolTip": "05_Functions\\ex3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T09:18:34.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ex2_VariablesMemoryConcepts.cpp",
-              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\02_Variables\\ex2_VariablesMemoryConcepts.cpp",
-              "RelativeDocumentMoniker": "02_Variables\\ex2_VariablesMemoryConcepts.cpp",
-              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\02_Variables\\ex2_VariablesMemoryConcepts.cpp",
-              "RelativeToolTip": "02_Variables\\ex2_VariablesMemoryConcepts.cpp",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwA4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T09:15:04.061Z",
-              "EditorCaption": ""
             }
           ]
         },
