@@ -1,7 +1,8 @@
 /.vscode
 /.vs
 .fake
-
+*.vscode
+*.vs
 
 # Ignore Visual Studio solution files
 *.sln
