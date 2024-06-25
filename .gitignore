@@ -8,8 +8,6 @@
 *.vcxproj.user
 *.vcxproj.filters
 *.vcxproj
-*.sln
-
 
 # Ignore Visual Studio solution files
 *.sln
@@ -17,11 +15,3 @@
 # Ignore Debug and x64 directories
 Debug/
 x64/
-
-/.{1:projectName}/
-/.Debug
-/.x64
-/.${1:projectName}.sln
-/.${1:projectName}.vcxproj}
-/.${1:projectName}.filters
-/.${1:projectName}.vcxproj.user
