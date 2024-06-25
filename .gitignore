@@ -4,6 +4,13 @@
 *.vscode
 *.vs
 
+# Ignore Visual Studio project files
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.sln
+
+
 # Ignore Visual Studio solution files
 *.sln
 
