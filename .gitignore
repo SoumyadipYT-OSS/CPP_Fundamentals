@@ -1,6 +1,10 @@
 /.vscode
+/.vs
 .fake
 
+/.{1:projectName}
+/.Debug
+/.x64
 /.${1:projectName}.sln
 /.${1:projectName}.vcxproj}
 /.${1:projectName}.filters
