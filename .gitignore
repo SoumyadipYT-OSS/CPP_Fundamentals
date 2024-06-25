@@ -1,2 +1,7 @@
 /.vscode
 .fake
+
+/.${1:projectName}.sln
+/.${1:projectName}.vcxproj}
+/.${1:projectName}.filters
+/.${1:projectName}.vcxproj.user

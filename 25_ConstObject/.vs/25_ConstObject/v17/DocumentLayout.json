@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6EB42-05C1-4996-A8AB-08D41BF3298F}|25_ConstObject.vcxproj|D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE6EB42-05C1-4996-A8AB-08D41BF3298F}|25_ConstObject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6EB42-05C1-4996-A8AB-08D41BF3298F}|25_ConstObject.vcxproj|D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE6EB42-05C1-4996-A8AB-08D41BF3298F}|25_ConstObject.vcxproj|solutionrelative:Food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6EB42-05C1-4996-A8AB-08D41BF3298F}|25_ConstObject.vcxproj|D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE6EB42-05C1-4996-A8AB-08D41BF3298F}|25_ConstObject.vcxproj|solutionrelative:Food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cpp",
+              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\Food.cpp",
+              "RelativeDocumentMoniker": "Food.cpp",
+              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\Food.cpp",
+              "RelativeToolTip": "Food.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T10:41:09.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.h",
+              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\Food.h",
+              "RelativeDocumentMoniker": "Food.h",
+              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\Food.h",
+              "RelativeToolTip": "Food.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-25T10:40:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\25_ConstObject\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T10:20:23.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
