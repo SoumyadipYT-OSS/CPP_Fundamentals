@@ -2,7 +2,15 @@
 /.vs
 .fake
 
-/.{1:projectName}
+
+# Ignore Visual Studio solution files
+*.sln
+
+# Ignore Debug and x64 directories
+Debug/
+x64/
+
+/.{1:projectName}/
 /.Debug
 /.x64
 /.${1:projectName}.sln
