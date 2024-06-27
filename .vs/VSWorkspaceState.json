@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\27_Decomposition",
+    "\\27_Decomposition\\Main"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\27_Decomposition\\Main\\Header1.cpp",
   "PreviewInSolutionExplorer": false
 }

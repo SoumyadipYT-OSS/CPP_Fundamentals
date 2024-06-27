@@ -1,6 +1,10 @@
 #include <iostream>
+#include "Food.h"
+using namespace std;
 
 int main() {
-	std::cout << "Hello, World!" << std::endl;
-	return 0;
+	Food foodObj;
+	foodObj.GetPaneerTikkaRecepie();
+
+	cout << RecommendMeAFood('c') << endl;
 }
