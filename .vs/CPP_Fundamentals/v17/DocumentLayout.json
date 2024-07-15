@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\GitHub repo connections\\CPP_Fundamentals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\Header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:27_Decomposition\\Main\\Header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:30_Operator_Overloading\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\Header1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:27_Decomposition\\Main\\Header1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:30_Operator_Overloading\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:27_Decomposition\\Main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:30_Operator_Overloading\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\main.cpp",
-              "RelativeDocumentMoniker": "27_Decomposition\\Main\\main.cpp",
-              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\main.cpp",
-              "RelativeToolTip": "27_Decomposition\\Main\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\Triangle.cpp",
+              "RelativeDocumentMoniker": "30_Operator_Overloading\\Triangle.cpp",
+              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\Triangle.cpp",
+              "RelativeToolTip": "30_Operator_Overloading\\Triangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-27T07:44:58.258Z",
+              "WhenOpened": "2024-07-07T11:16:41.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Header1.h",
-              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\Header1.h",
-              "RelativeDocumentMoniker": "27_Decomposition\\Main\\Header1.h",
-              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\Header1.h",
-              "RelativeToolTip": "27_Decomposition\\Main\\Header1.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAACAAAA",
+              "Title": "Triangle.h",
+              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\Triangle.h",
+              "RelativeDocumentMoniker": "30_Operator_Overloading\\Triangle.h",
+              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\Triangle.h",
+              "RelativeToolTip": "30_Operator_Overloading\\Triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-27T07:37:19.99Z",
+              "WhenOpened": "2024-07-07T11:06:26.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Header1.cpp",
-              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\Header1.cpp",
-              "RelativeDocumentMoniker": "27_Decomposition\\Main\\Header1.cpp",
-              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\27_Decomposition\\Main\\Header1.cpp",
-              "RelativeToolTip": "27_Decomposition\\Main\\Header1.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA0AAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\main.cpp",
+              "RelativeDocumentMoniker": "30_Operator_Overloading\\main.cpp",
+              "ToolTip": "D:\\GitHub repo connections\\CPP_Fundamentals\\30_Operator_Overloading\\main.cpp",
+              "RelativeToolTip": "30_Operator_Overloading\\main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-27T07:41:11.501Z",
+              "WhenOpened": "2024-07-07T11:02:54.781Z",
               "EditorCaption": ""
             }
           ]
