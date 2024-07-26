@@ -1,0 +1,10 @@
+chair 0
+waterEnergy 50
+windturbine 80
+solarpanel 100
+magma -99
+apple 1
+vegetable 2
+wood 0
+dirtyNeedle -80
+paper 0
