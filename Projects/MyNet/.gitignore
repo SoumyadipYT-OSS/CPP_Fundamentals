@@ -1,0 +1,40 @@
+# Ignore build output and binaries
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.exp
+*.log
+
+# Ignore CMake build folders
+[Cc]MakeFiles/
+[Cc]MakeCache.txt
+build/
+out/
+
+# Ignore Visual Studio/MSVC files
+*.sln
+*.vcxproj*
+*.user
+*.ipch
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore DotNET build output
+DotNET_App/bin/
+DotNET_App/obj/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
